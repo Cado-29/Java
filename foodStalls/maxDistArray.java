@@ -1,3 +1,4 @@
+package foodStalls;
 public class maxDistArray {
     public static void main(String[] args) {
         int[] foodStalls = {7,1,4,3};
